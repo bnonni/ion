@@ -8,3 +8,5 @@ coverage/
 
 # sidetree-ipfs data folder
 sidetree-ipfs/
+json/testnet-bitcoin-config.json
+.env
